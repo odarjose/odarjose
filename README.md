@@ -9,30 +9,15 @@
 
 </div>
 
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🚀+Building+scalable+%26+secure+systems;💻+Python+%7C+FastAPI+%7C+Full+Stack+Dev;🛡️+Security-first+%7C+Clean+Architecture" alt="Typing SVG" />
-
-</div>
 
 <div align="center">
 
-[![Perfil vistas](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](#)
 [![Años en GitHub](https://img.shields.io/badge/Developer-Since%202020-00D9FF?style=for-the-badge&logo=github)](#)
 [![Ubicación](https://img.shields.io/badge/📍-Perú-FF4081?style=for-the-badge)](#)
 [![Metodología](https://img.shields.io/badge/SCRUM%20%7C%20XP-Agile-8B5CF6?style=for-the-badge)](#)
 
 </div>
-
----
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3JjOGp0ZDl2d3R0cG56M2o4dWl0Z2p2dTFyZHB5b3I4NGJkZTRtNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="420" style="border-radius:16px"/>
-
-</div>
-
----
 
 ## 👨‍💻 Sobre mí
 
@@ -155,13 +140,10 @@ Soy fundador de **JP Odar Software**, mi marca personal orientada a transformar 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-FABD14?style=for-the-badge&logo=diagrams.net&logoColor=black)
 
 </div>
-
----
 
 
 ## 📌 Actualmente Aprendiendo
@@ -173,14 +155,6 @@ Soy fundador de **JP Odar Software**, mi marca personal orientada a transformar 
 | Seguridad en backend | Fundamentos ofensivos | Best practices | Arquitecturas escalables |
 
 </div>
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2cwY2Jib2doam95Y2d6bzRsMGhpd3ZxMmh2eHg1d3YxbHBxYWY4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="340"/>
-
-</div>
-
----
 
 ## 🎯 Meta Profesional
 
@@ -202,12 +176,6 @@ Soy fundador de **JP Odar Software**, mi marca personal orientada a transformar 
 
 
 </div>
-
----
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW43MXVrbzlkcWZpMnZndHJ5NmJiYW11eHVidWs3eXNhMTNpaGRmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="260"/>
 
 ### ⭐ *"El software no solo debe funcionar... debe escalar, mantenerse seguro y ser mantenible."*
 
