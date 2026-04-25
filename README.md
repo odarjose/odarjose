@@ -164,39 +164,6 @@ Soy fundador de **JP Odar Software**, mi marca personal orientada a transformar 
 ---
 
 
-
-## 🧩 Filosofía de Trabajo
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFuZnh5MG14NTJuNnVvMHk5aGVrb3UxNW9lZXl4emFyYTNoY3h1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="300"/>
-
-</div>
-
-```python
-class JosePaulOdar:
-    def __init__(self):
-        self.nombre      = "Jose Paul Odar Jiménez"
-        self.empresa     = "JP Odar Software"
-        self.ubicacion   = "Perú 🇵🇪"
-        self.rol         = "Full Stack Developer"
-        self.metodologia = ["SCRUM", "XP", "Agile"]
-        self.flujo       = ["Análisis", "Diseño", "Desarrollo", "Despliegue", "Seguimiento"]
-
-    def filosofia(self):
-        return {
-            "arquitectura" : "Modular, limpia y escalable",
-            "seguridad"    : "Built-in desde el día uno 🔒",
-            "codigo"       : "Testeable, documentado y mantenible",
-            "despliegue"   : "Docker + Linux + VPS listo para producción 🚀",
-        }
-
-    def objetivo(self):
-        return "Transformar procesos manuales en plataformas digitales eficientes ✨"
-```
-
----
-
 ## 📌 Actualmente Aprendiendo
 
 <div align="center">
