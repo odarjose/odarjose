@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF4081&center=true&vCenter=true&width=600&lines=Frontend+Specialist;React+%7C+Vue+%7C+Flutter;Building+Modern+UIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF4081&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Vue+%7C+Flutter;Building+Modern+UIs" alt="Typing SVG" />
 </div>
 
 ---
